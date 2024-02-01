@@ -23,7 +23,7 @@
 
         <div class="right-links">
 
-            <?php 
+            <?php
             
             $id = $_SESSION['id'];
             $query = mysqli_query($con,"SELECT*FROM users WHERE Id=$id");
