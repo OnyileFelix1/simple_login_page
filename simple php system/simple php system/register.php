@@ -11,7 +11,7 @@
       <div class="container">
         <div class="box form-box">
 
-        <?php 
+        < ?php
          
          include("php/config.php");
          if(isset($_POST['submit'])){
