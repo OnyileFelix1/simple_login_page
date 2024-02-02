@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="style/style.css">
     <title>Register</title>
 </head>
-<body>
+    <body>
       <div class="container">
         <div class="box form-box">
 
@@ -68,7 +68,6 @@
                 </div>
 
                 <div class="field">
-                    
                     <input type="submit" class="btn" name="submit" value="Register" required>
                 </div>
                 <div class="links">
@@ -78,5 +77,5 @@
         </div>
         <?php } ?>
       </div>
-</body>
+    </body>
 </html>
