@@ -33,7 +33,6 @@
                 $res_Email = $result['Email'];
                 $res_Age = $result['Age'];
                 $res_id = $result['Id'];
-                $res_Lname = $result['Lname'];
             }
             
             echo "<a href='edit.php?Id=$res_id'>Change Profile</a>";
